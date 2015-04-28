@@ -22,6 +22,52 @@
       "revId": "1d53494eb933fbca2c94416bbecd7e81fa6ce0a0",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_a7046b4a",
+        "filename": "trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1004764
+      },
+      "writtenOn": "2015-04-28T20:06:54Z",
+      "side": 1,
+      "message": "Variables should speak for themselfs. Should remove the comments",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 31
+      },
+      "revId": "1d53494eb933fbca2c94416bbecd7e81fa6ce0a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_c7f7e757",
+        "filename": "trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1004764
+      },
+      "writtenOn": "2015-04-28T20:06:54Z",
+      "side": 1,
+      "message": "This is a list of things done. Not necessary as as comment.",
+      "range": {
+        "startLine": 35,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 16
+      },
+      "revId": "1d53494eb933fbca2c94416bbecd7e81fa6ce0a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
