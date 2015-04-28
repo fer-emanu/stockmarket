@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "1a106d94_e7566329",
+        "filename": "market/Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 1004779
+      },
+      "writtenOn": "2015-04-28T20:54:02Z",
+      "side": 1,
+      "message": "bad naming s",
+      "revId": "1d53494eb933fbca2c94416bbecd7e81fa6ce0a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_67d0b3c9",
         "filename": "order/OrderBook.java",
         "patchSetId": 1
@@ -48,6 +65,23 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_c7536737",
+        "filename": "trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1004779
+      },
+      "writtenOn": "2015-04-28T20:54:02Z",
+      "side": 1,
+      "message": "Do not need super() if there is no super class.",
+      "revId": "1d53494eb933fbca2c94416bbecd7e81fa6ce0a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_c7f7e757",
         "filename": "trader/Trader.java",
         "patchSetId": 1
@@ -64,6 +98,29 @@
         "startChar": 0,
         "endLine": 41,
         "endChar": 16
+      },
+      "revId": "1d53494eb933fbca2c94416bbecd7e81fa6ce0a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_2734fbfa",
+        "filename": "trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1004779
+      },
+      "writtenOn": "2015-04-28T20:54:02Z",
+      "side": 1,
+      "message": "Unnecessary comments.",
+      "range": {
+        "startLine": 55,
+        "startChar": 1,
+        "endLine": 66,
+        "endChar": 30
       },
       "revId": "1d53494eb933fbca2c94416bbecd7e81fa6ce0a0",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
