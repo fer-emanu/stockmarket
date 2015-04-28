@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_67d0b3c9",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1004764
+      },
+      "writtenOn": "2015-04-28T20:00:59Z",
+      "side": 1,
+      "message": "Should remove this comments, as it does not add any description to the code. Instead it is just instructions that have already been completed.",
+      "range": {
+        "startLine": 58,
+        "startChar": 2,
+        "endLine": 67,
+        "endChar": 37
+      },
+      "revId": "1d53494eb933fbca2c94416bbecd7e81fa6ce0a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
