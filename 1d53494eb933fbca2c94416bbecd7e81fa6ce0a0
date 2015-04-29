@@ -2,6 +2,75 @@
   "comments": [
     {
       "key": {
+        "uuid": "1a106d94_c0f7c8d1",
+        "filename": "client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1004743
+      },
+      "writtenOn": "2015-04-29T16:14:37Z",
+      "side": 1,
+      "message": "needs to be renamed to market",
+      "range": {
+        "startLine": 11,
+        "startChar": 8,
+        "endLine": 11,
+        "endChar": 10
+      },
+      "revId": "1d53494eb933fbca2c94416bbecd7e81fa6ce0a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_602ed444",
+        "filename": "client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1004743
+      },
+      "writtenOn": "2015-04-29T16:14:37Z",
+      "side": 1,
+      "message": "needs to be renamed to something more unique to tell the traders apart.",
+      "range": {
+        "startLine": 26,
+        "startChar": 9,
+        "endLine": 26,
+        "endChar": 16
+      },
+      "revId": "1d53494eb933fbca2c94416bbecd7e81fa6ce0a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_80295039",
+        "filename": "client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1004743
+      },
+      "writtenOn": "2015-04-29T16:14:37Z",
+      "side": 1,
+      "message": "TODO comment can be removed since it has been completed.",
+      "range": {
+        "startLine": 108,
+        "startChar": 3,
+        "endLine": 108,
+        "endChar": 37
+      },
+      "revId": "1d53494eb933fbca2c94416bbecd7e81fa6ce0a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_e7566329",
         "filename": "market/Market.java",
         "patchSetId": 1
