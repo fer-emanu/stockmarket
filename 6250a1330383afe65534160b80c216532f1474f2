@@ -1,0 +1,78 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_8ca867dc",
+        "filename": "client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1004833
+      },
+      "writtenOn": "2015-04-29T22:06:08Z",
+      "side": 1,
+      "message": "Vague name, especially in conjunction with Line 19. Rename to be clear and explanatory",
+      "revId": "6250a1330383afe65534160b80c216532f1474f2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_ccad3feb",
+        "filename": "client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1004833
+      },
+      "writtenOn": "2015-04-29T22:06:08Z",
+      "side": 1,
+      "message": "Vague name, especially in conjunction with line 11. Rename to be clear and explanatory.",
+      "revId": "6250a1330383afe65534160b80c216532f1474f2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_4c894f74",
+        "filename": "market/MarketHistory.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004833
+      },
+      "writtenOn": "2015-04-29T22:06:08Z",
+      "side": 1,
+      "message": "More explanatory variable name would be useful here. Current name is vague",
+      "revId": "6250a1330383afe65534160b80c216532f1474f2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_cc941f8d",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 1004833
+      },
+      "writtenOn": "2015-04-29T22:06:08Z",
+      "side": 1,
+      "message": "The formatting here is confusing. Certain lines are farther spaced than others.",
+      "range": {
+        "startLine": 70,
+        "startChar": 1,
+        "endLine": 95,
+        "endChar": 7
+      },
+      "revId": "6250a1330383afe65534160b80c216532f1474f2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
