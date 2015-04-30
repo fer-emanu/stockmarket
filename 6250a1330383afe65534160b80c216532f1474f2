@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_9e2d1b01",
+        "filename": "client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1004806
+      },
+      "writtenOn": "2015-04-30T23:06:18Z",
+      "side": 1,
+      "message": "Variable will be renamed",
+      "parentUuid": "1a106d94_8ca867dc",
+      "revId": "6250a1330383afe65534160b80c216532f1474f2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_ccad3feb",
         "filename": "client/Client.java",
         "patchSetId": 2
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_de331360",
+        "filename": "client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1004806
+      },
+      "writtenOn": "2015-04-30T23:06:18Z",
+      "side": 1,
+      "message": "Variable will be renamed",
+      "parentUuid": "1a106d94_ccad3feb",
+      "revId": "6250a1330383afe65534160b80c216532f1474f2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_4c894f74",
         "filename": "market/MarketHistory.java",
         "patchSetId": 2
@@ -47,6 +83,24 @@
       "writtenOn": "2015-04-29T22:06:08Z",
       "side": 1,
       "message": "More explanatory variable name would be useful here. Current name is vague",
+      "revId": "6250a1330383afe65534160b80c216532f1474f2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_be38d73d",
+        "filename": "market/MarketHistory.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004806
+      },
+      "writtenOn": "2015-04-30T23:06:18Z",
+      "side": 1,
+      "message": "Variable will be renamed",
+      "parentUuid": "1a106d94_4c894f74",
       "revId": "6250a1330383afe65534160b80c216532f1474f2",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
@@ -76,6 +130,30 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_7e801fc0",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 1004806
+      },
+      "writtenOn": "2015-04-30T23:06:18Z",
+      "side": 1,
+      "message": "Indenting will be corrected",
+      "parentUuid": "1a106d94_cc941f8d",
+      "range": {
+        "startLine": 70,
+        "startChar": 1,
+        "endLine": 95,
+        "endChar": 7
+      },
+      "revId": "6250a1330383afe65534160b80c216532f1474f2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_d6eb09da",
         "filename": "trader/Trader.java",
         "patchSetId": 2
@@ -87,6 +165,24 @@
       "writtenOn": "2015-04-30T02:59:41Z",
       "side": 1,
       "message": "bad naming",
+      "revId": "6250a1330383afe65534160b80c216532f1474f2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_de8153c4",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 1004806
+      },
+      "writtenOn": "2015-04-30T23:06:18Z",
+      "side": 1,
+      "message": "Name will be changed",
+      "parentUuid": "1a106d94_d6eb09da",
       "revId": "6250a1330383afe65534160b80c216532f1474f2",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
